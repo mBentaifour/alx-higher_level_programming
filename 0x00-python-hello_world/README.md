@@ -1,1 +1,1 @@
-Hello word in python clear
+Hello Python
