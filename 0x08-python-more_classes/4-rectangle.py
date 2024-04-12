@@ -9,8 +9,8 @@ class Rectangle:
     def __init__(self, width=0, height=0):
         """initialize a new Rectangle
         Args:
-            width (int): The width of the new rectangle.
-            height (int): The height of the new rectangle.
+            width (int): The width of the new rectangle
+            height (int): The height of the new rectangle
         """
         self.width = width
         self.height = height
@@ -67,6 +67,6 @@ class Rectangle:
 
     def __repr__(self):
         """return the string representation of the Rectangle"""
-        rect = "rectangle(" + str(self.__width)
+        rect = "Rectangle(" + str(self.__width)
         rect += ", " + str(self.__height) + ")"
         return (rect)
