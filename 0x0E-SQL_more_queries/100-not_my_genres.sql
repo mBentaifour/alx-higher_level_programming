@@ -1,4 +1,3 @@
--- 100-not_my_genres.sql
 --  uses the hbtn_0d_tvshows database to list all genres not linked to the show
 --  Dexter
 SELECT DISTINCT tv_genres.name
