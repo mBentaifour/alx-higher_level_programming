@@ -1,6 +1,7 @@
 #!/usr/bin/node
+
 // Write a class Rectangle that defines a rectangle and creates an instance
-// method called print() 
+// method called print()
 // that prints the rectangle using the character X
 // The constructor must take 2 arguments: w and h
 
