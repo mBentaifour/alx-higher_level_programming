@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// Readme, a script that reads and prints the content of a file
+// Readme a script that reads and prints the content of a file
 const filesys = require('fs');
 filesys.readFile(process.argv[2], 'utf-8',
   function (err, data) {
