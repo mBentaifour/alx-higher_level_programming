@@ -2,7 +2,6 @@
 
 // Right order
 // prints all characters of a Star Wars movie
-// in the same order of the list “characters” in the /films/ response
 
 const request = require('request');
 const id = process.argv[2];
